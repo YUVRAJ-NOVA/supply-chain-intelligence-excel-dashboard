@@ -22,7 +22,7 @@
 ---
 
 ![Executive Report](Report.png) 
-*(Note: Replace with your REPORT sheet screenshot)*
+
 
 </div>
 
@@ -41,7 +41,7 @@ This project avoids "black box" dashboarding by building a robust, transparent, 
 <div align="center">
 
 ![Interactive Dashboard](./Dashboard.png)
-*(Note: Replace with your DASHBOARD sheet screenshot)*
+
 
 </div>
 
