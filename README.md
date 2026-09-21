@@ -15,13 +15,13 @@
 <div align="center">
 
 ### **[⬇️ Download Dashboard and Report (.xlsx)](https://www.dropbox.com/scl/fi/u7z3j757r51r8sowolwu9/Supply-Chains-Intelligence-Dashboard-YUVRAJ-SINGH-KUSHWAH.xlsx?rlkey=csst9x5426pd3w0wsq46ef1z9&st=no5fgvec&dl=0)**
-*Open in Power BI Desktop — all 6 pages are fully interactive and cross-filterable*
+
 
 </div>
 
 ---
 
-![Executive Report](.\Report.png) 
+![Executive Report](\Report.png) 
 *(Note: Replace with your REPORT sheet screenshot)*
 
 </div>
