@@ -21,7 +21,7 @@
 
 ---
 
-![Executive Report](\Report.png) 
+![Executive Report](Report.png) 
 *(Note: Replace with your REPORT sheet screenshot)*
 
 </div>
